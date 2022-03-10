@@ -1,6 +1,6 @@
 This repository contains all the projects created by Shraddhavp in frontend Technologies 
 
-# Teach stack used 
+# Tech stack used 
 
 * HTML
 * CSS
